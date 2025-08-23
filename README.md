@@ -52,4 +52,9 @@ The manual testing process covered various aspects of the SecureBank platform, f
 These test cases are designed to verify that the application is operating as expected.
 <img width="960" height="509" alt="Test Cases" src="https://github.com/user-attachments/assets/19670155-9efc-4de7-ab3f-b7c922e7c1ea" />
 
+## Test Report Summary
+These reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation.
+<img width="960" height="510" alt="Test Summary Report" src="https://github.com/user-attachments/assets/f37c9b36-1095-4725-9b40-659ff463dbf7" />
+
+
 
