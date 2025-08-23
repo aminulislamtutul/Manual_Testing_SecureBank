@@ -56,5 +56,9 @@ These test cases are designed to verify that the application is operating as exp
 These reports may include defect reports, test execution reports, test summary reports, and any other relevant documentation.
 <img width="960" height="510" alt="Test Summary Report" src="https://github.com/user-attachments/assets/f37c9b36-1095-4725-9b40-659ff463dbf7" />
 
+## Bug Report
+<img width="960" height="511" alt="Bug Report" src="https://github.com/user-attachments/assets/73376066-01c4-4cc1-b7f0-f38609a929fb" />
+
+
 
 
