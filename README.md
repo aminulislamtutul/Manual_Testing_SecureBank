@@ -20,3 +20,32 @@ The manual testing process covered various aspects of the SecureBank platform, f
 ### Mind Maps
 <img width="2955" height="1702" alt="SECUREBANK" src="https://github.com/user-attachments/assets/0812c4e1-3083-484b-aaa4-befe36a3dd80" />
 
+#### Designed a mind map to visualize:
+- Testing strategy
+- Feature coverage
+### Test Scenarios
+#### Defined multiple test scenarios to validate:
+- Critical functionalities
+- Edge cases
+- Boundary Value testing
+- Negative testing
+### Test Case Writing
+- Created detailed test cases covering various modules of the SecureBank application.
+### Bug Reports
+#### Documented identified defects with:
+- Severity
+- Priority
+- Steps to reproduce
+- For efficient tracking and resolution
+### Test Metrics
+#### Collected and analyzed test metrics to assess:
+- Test coverage
+- Test execution progress
+### Tools Used
+- Test Management Tool: Excel Sheets / Google Sheets
+- Mind Mapping Tool: XMind
+## Key Outcomes
+- Identified and reported critical bugs affecting functionality and security.
+- Achieved comprehensive test coverage through detailed test cases and scenarios.
+- Ensured the platform's compatibility across various browsers and devices.
+
