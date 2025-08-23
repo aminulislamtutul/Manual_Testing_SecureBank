@@ -18,3 +18,5 @@ The manual testing process covered various aspects of the SecureBank platform, f
 - Test Environment
 - Schedule
 ### Mind Maps
+<img width="2955" height="1702" alt="SECUREBANK" src="https://github.com/user-attachments/assets/0812c4e1-3083-484b-aaa4-befe36a3dd80" />
+
