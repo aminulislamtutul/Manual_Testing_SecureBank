@@ -59,6 +59,9 @@ These reports may include defect reports, test execution reports, test summary r
 ## Bug Report
 <img width="960" height="511" alt="Bug Report" src="https://github.com/user-attachments/assets/73376066-01c4-4cc1-b7f0-f38609a929fb" />
 
+## Conclusion
+This manual testing project for SecureBank has successfully validated the platform's core functionalities and security measures. The documentation, including test cases, scenarios, a mind map, a test summary report, test metrics, and bug reports, has been prepared to assist in continuous quality improvement.
+
 
 
 
