@@ -48,4 +48,8 @@ The manual testing process covered various aspects of the SecureBank platform, f
 - Identified and reported critical bugs affecting functionality and security.
 - Achieved comprehensive test coverage through detailed test cases and scenarios.
 - Ensured the platform's compatibility across various browsers and devices.
+## Test Cases
+These test cases are designed to verify that the application is operating as expected.
+<img width="960" height="509" alt="Test Cases" src="https://github.com/user-attachments/assets/19670155-9efc-4de7-ab3f-b7c922e7c1ea" />
+
 
