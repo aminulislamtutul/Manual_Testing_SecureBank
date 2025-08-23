@@ -7,3 +7,14 @@ The manual testing process covered various aspects of the SecureBank platform, f
 - Security Testing: Identifying potential vulnerabilities.
 - Usability Testing: Ensuring an intuitive and user-friendly experience.
 - Cross-Browser Testing: Validating compatibility across multiple browsers.
+## Testing Activities Performed
+### Test Plan Creation
+#### Developed a structured test plan outlining:
+- Testing objectives
+- Scope
+- Test items
+- Features to be tested
+- Features not to be tested
+- Test Environment
+- Schedule
+### Mind Maps
